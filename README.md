@@ -9,4 +9,4 @@ Review the current docs by clicking the Wiki button at the right. Please contrib
 
 Code will start appearing here shortly.
 
-Interested in contributing? Contact me.
+Interested in contributing? Contact me for details.

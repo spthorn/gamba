@@ -7,7 +7,7 @@ This project describes a wifi-enabled device that sits in your car, powered from
 
 "Gamba" is the working project name.
 
-Review the [current Wiki docs[(https://github.com/spthorn/gamba/wiki). Please contribute!
+Review the [current Wiki docs](https://github.com/spthorn/gamba/wiki). Please contribute!
 
 Code will start appearing here shortly.
 
